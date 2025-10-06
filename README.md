@@ -71,4 +71,4 @@ Atualmente estou focado em expandir meus conhecimentos em Python, IA, Machine Le
 
 ---
 
-<img width="100%" src="https://i.imgur.com/ZJgNnSt.png" alt="Tech Banner"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
